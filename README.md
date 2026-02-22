@@ -6,15 +6,15 @@ This repository defines the structured Software Development Lifecycle (SDLC) tha
 
 The objective is to ensure:
 
-Clear and structured planning
+-Clear and structured planning
 
-Organized Git workflow
+-Organized Git workflow
 
-Collaborative development
+-Collaborative development
 
-Proper testing and validation
+-Proper testing and validation
 
-Clean and controlled deployment
+-Clean and controlled deployment
 
 This workflow allows us to move from idea to production in a professional and industry-aligned manner.
 
@@ -23,43 +23,43 @@ This workflow allows us to move from idea to production in a professional and in
 🧠 Development Lifecycle Phases
 1️⃣ Idea & Planning
 
-Brainstorm potential project ideas
+-Brainstorm potential project ideas
 
-Define a clear problem statement
+-Define a clear problem statement
 
-Identify target users
+-Identify target users
 
-Finalize the technology stack
+-Finalize the technology stack
 
 2️⃣ Requirement Analysis
 
-Define MVP (Minimum Viable Product) features
+-Define MVP (Minimum Viable Product) features
 
-List future enhancements
+-List future enhancements
 
-Prioritize tasks
+-Prioritize tasks
 
-Freeze MVP scope
+-Freeze MVP scope
 
 3️⃣ System Design
 
-High-Level Architecture design
+-High-Level Architecture design
 
-Database schema design
+-Database schema design
 
-API design and endpoint planning
+-API design and endpoint planning
 
-UI wireframe preparation
+-UI wireframe preparation
 
 4️⃣ Project Setup
 
-Create GitHub repository
+-Create GitHub repository
 
-Define branching strategy
+-Define branching strategy
 
-Setup folder structure
+-Setup folder structure
 
-Configure development environment
+-Configure development environment
 
 🔄 Git Branching Strategy
 
@@ -71,13 +71,13 @@ develop   → Integration branch
 feature/<feature-name> → Individual feature development  
 Rules
 
-No direct push to main
+-No direct push to main
 
-Pull Request required before merging
+-Pull Request required before merging
 
-Code review mandatory
+-Code review mandatory
 
-All features are developed in separate feature branches
+-All features are developed in separate feature branches
 
 This ensures version control discipline and collaborative quality control.
 
@@ -85,69 +85,69 @@ This ensures version control discipline and collaborative quality control.
 
 For every feature implementation:
 
-Create a GitHub Issue
+-Create a GitHub Issue
 
-Create a feature branch from develop
+-Create a feature branch from develop
 
-Implement the feature
+-Implement the feature
 
-Commit changes with meaningful messages
+-Commit changes with meaningful messages
 
-Raise a Pull Request
+-Raise a Pull Request
 
-Peer review and fix requested changes
+-Peer review and fix requested changes
 
-Merge into develop
+-Merge into develop
 
 🧪 Testing Strategy
 
 Before deployment, the following testing steps are performed:
 
-Unit Testing
+-Unit Testing
 
-API Testing
+-API Testing
 
-UI/Manual Testing
+-UI/Manual Testing
 
-Bug fixing and validation loop
+-Bug fixing and validation loop
 
 If bugs are found, the workflow cycles back to the development phase.
 
 🚀 Deployment Strategy
 
-Only the main branch is deployed
+-Only the main branch is deployed
 
-Deployment is performed after testing approval
+-Deployment is performed after testing approval
 
-Environment variables and configuration are managed securely
+-Environment variables and configuration are managed securely
 
-Post-deployment monitoring is conducted
+-Post-deployment monitoring is conducted
 
 🔄 Maintenance & Iteration
 
 After deployment:
 
-Monitor performance and logs
+-Monitor performance and logs
 
-Fix production issues
+-Fix production issues
 
-Optimize performance
+-Optimize performance
 
-Add new features in iterative cycles
+-Add new features in iterative cycles
 
 🎯 Objective of This Workflow
 
 This workflow ensures:
 
-Structured execution
+-Structured execution
 
-Clear responsibility distribution
+-Clear responsibility distribution
 
-Version control discipline
+-Version control discipline
 
-Industry-standard development practice
+-Industry-standard development practice
 
-Placement-ready project execution
+-Placement-ready project execution
 
 👥 Team
 
